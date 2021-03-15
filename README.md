@@ -3,7 +3,7 @@
 This is a simple app that provides video search using Youtube's API.
 
 #### Start Application
-1. Clone `YouTube-Video-API-Example` project
+1. Clone `YouTube-Video-API-Example` project from **master** branch
 2. Open up command line
 3. Navigate to the `YouTube-Video-API-Example` directory
 4. Run `npm install` to make sure local version is up to date
