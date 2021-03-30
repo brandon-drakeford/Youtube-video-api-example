@@ -10,4 +10,4 @@ This is a simple app that provides video search using Youtube's API.
 5. Run `npm start` to launch application on `localhost:3000`
 
 ## View Live Demo
-To see a live demo without downloading the project, visit here: https://mystifying-jepsen-361f2f.netlify.app/
+To see a live demo without downloading the project, visit here: https://youtubeapistream.netlify.app
